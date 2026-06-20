@@ -1,0 +1,12 @@
+Video,Chapter,Filename,Short description,Related figure
+Video S2.1,Chapter 2,Video_S2_1_PhasePortrait_TransversalFibres.mp4,Description to be completed,Fig.~\ref{}
+Video S2.2,Chapter 2,Video_S2_2_PhasePortrait_Detachment.mp4,Description to be completed,Fig.~\ref{}
+Video S2.3,Chapter 2,Video_S2_3_PhasePortrait_NoDetachment.mp4,Description to be completed,Fig.~\ref{}
+Video S2.4,Chapter 2,Video_S2_4_PhasePortrait_Detachment.mp4,Description to be completed,Fig.~\ref{}
+Video S3.1,Chapter 3,Video_S3_1_Cell_on_rigid_substrate_Logistic_profile.mp4,Cell migrating on a rigid substrate. The force profiles follow a logistic-type functional form.,Fig.~\ref{}
+Video S3.2,Chapter 3,Video_S3_2_Cell_on_fibres_Jump_profile.mp4,Cell migration model on an elastic fibrous medium. The force profiles follow a jump-type functional form.,Fig.~\ref{}
+Video S3.3,Chapter 3,Video_S3_3_Cell_on_fibres_Triangular_profile.mp4,Cell migration model on an elastic fibrous medium. The force profiles follow a triangular-type functional form.,Fig.~\ref{}
+Video S3.4,Chapter 3,Video_S3_4_Cell_on_fibres_Logistic_profile.mp4,Cell migration model on an elastic fibrous medium. The force profiles follow a triangular-type functional form.,Fig.~\ref{}
+Video S3.5,Chapter 3, Video_S3_5_Cell_on_viscoelastic_substrate.mp4,Cell migration model on an isotropic viscoelastic continuous medium. The force profiles follow a logistic-type functional form.,Fig.~\ref{}
+Video S3.6,Chapter 3,Video_S3_6_Cell_on_horizontally_pre-stretched_fibrous_substrate.mp4,Cell migrating on a horizontally stretched fibrous substrate. The force profiles follow a logistic-type functional form. ,Fig.~\ref{}
+Video S3.7,Chapter 3,Video_S3_7_Cell_on_vertically_pre-stretched_fibrous_substrate.mp4,Cell migrating on a vertically stretched fibrous substrate. The force profiles follow a logistic-type functional form.,Fig.~\ref{}

@@ -1,0 +1,8 @@
+Chapter 2 supplementary videos
+This folder contains supplementary videos associated with Chapter 2 of the thesis.
+The videos illustrate different aspects of the cell-ECM interaction model, including the role of active contraction and adhesion dynamics.
+Videos
+	•	Video_S2_1_PhasePortrait_TransversalFibres.mp4: Cells detaching from ECM. For the stiffer ECM cases,  the traction forces on the FA can induce the detachment. The ECM configuration imposed is such that the pulling force stretches the integrins rather than deforming the ECM fibres. Due to the rapid stretching, the FA enters the basin of attraction of the detachment.
+	•	Video_S2_2_PhasePortrait_Detachment.mp4: Cells entering the basin of attraction of detachment. Simulation where two elongated cells detach from a stiff ECM. We show how the cell traction forces on the FA can induce the detachment. The ECM configuration is such that the pulling force exerted by cells stretch the integrins rather than deform the ECM fibres. Due to the rapid stretching, the FA enters the basin of attraction of detachment.
+	•	Video_S2_3_PhasePortrait_NoDetachment.mp4: Phase portrait evolution of cells that do not detach from the ECM. Simulation where two elongated cells deform a stiff ECM. The pulling forces on the FA are not sufficient to induce detachment. Although the pulling force stretches the integrins, the energy is dissipated with the deformation of the ECM fibres. The system does not enter the basin of attraction of detachment, so the cells stay attached.
+	•	Video_S2_4_PhasePortrait_Detachment.mp4: Phase portrait evolution of cells that detach from the ECM. Detailed evolution of the phase portrait of the detaching case shown in Fig. A.2. The pulling forces on the FA induce cell detachment.
