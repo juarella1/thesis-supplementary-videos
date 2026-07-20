@@ -6,6 +6,7 @@ The videos are organised by chapter:
 
 * [Chapter 2 supplementary videos](chapter-2/)
 * [Chapter 3 supplementary videos](chapter-3/)
+* [Chapter 4 supplementary videos](chapter-4/)
 
 A summary of all videos and their corresponding locations in the thesis is provided in the [video index](video_index.csv).
 
